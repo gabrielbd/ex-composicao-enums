@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ExComposicaoEnums.exe
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ExComposicaoEnums.deps.json
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ExComposicaoEnums.runtimeconfig.json
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ExComposicaoEnums.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ExComposicaoEnums.dll
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ref\ExComposicaoEnums.dll
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\bin\Debug\net5.0\ExComposicaoEnums.pdb
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.dll
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ref\ExComposicaoEnums.dll
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.pdb
+C:\Users\Marcelo\Desktop\ExComposicaoEnums\ExComposicaoEnums\obj\Debug\net5.0\ExComposicaoEnums.genruntimeconfig.cache
